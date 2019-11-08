@@ -8,4 +8,4 @@ Azure Notebooks for the course: https://notebooks.azure.com/ek358/projects/data-
 
 Getting started guide for Azure Notebooks: https://notebooks.azure.com/marekrei/libraries/cl-datasci-pnp/html/getting-started.ipynb
 
-Github repository: https://github.com/marekrei/cl-datasci-pnp
+Github repository: https://github.com/ekochmar/cl-datasci-pnp
